@@ -2,9 +2,8 @@
 - 👀 I’m interested in ... data analytics 
 - 🌱 I’m currently learning ... web development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... misspayel1810@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me ... to mail at misspayel1810@gmail.com
+
 
 <!---
 MissPayeldas/MissPayeldas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
